@@ -10,5 +10,13 @@ This is very much a work in progress as I'm still a novice with Jupyter Notebook
   4) Some machine-learning experiments. Because if the world will inevitably have a SkyNet AI, that AI should have esoteric obsessions with ancient stuff.
 
 
+## NOTE
+Most of the recent development for these notebooks took place using an Ubuntu 18.04 subsystem on Linux. I found it easier to
+install various Python packages in Linux world rather than on Windows directly. However to start Jupyter Notebooks in the Linux
+subsystem, I needed a special invocation as follows:
+```
+jupyter notebook --ip=127.0.0.1 --port=8888
+```
+
 
 

@@ -11,6 +11,7 @@ pandas = "*"
 numpy = "*"
 jupyter = "*"
 python-slugify = "*"
+matplotlib = "*"
 
 [requires]
 python_version = "3.8"
