@@ -674,7 +674,7 @@ class OpenContextAPI():
         return records
     
 
-    def _infer__set_dataframe_col_datatypes(self, df):
+    def _infer_set_dataframe_col_datatypes(self, df):
         """Infers and sets column datatypes for a dataframe"""
         for col in df.columns.tolist():
             d_type = pd.api.types.infer_dtype(df[col], skipna=True)
@@ -754,7 +754,7 @@ class OpenContextAPI():
         df = pd.DataFrame(records)
 
         # Infer data types for the columns.
-        df = self._infer__set_dataframe_col_datatypes(df)
+        df = self._infer_set_dataframe_col_datatypes(df)
 
         # NOTE: everything below is cosmetic, to order columns
         # of the output dataframe predictably.
