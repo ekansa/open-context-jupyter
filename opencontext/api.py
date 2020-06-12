@@ -681,6 +681,8 @@ class OpenContextAPI():
             if not self.INFER_DATATYPE_MAPPINGS.get(d_type):
                 # We're not changing the data type of this column.
                 continue
+            if d_type == 'boolean':
+                df[col] = df[col].fillna(value=False)
             df[col] = df[col].astype(
                 self.INFER_DATATYPE_MAPPINGS.get(
                     d_type
