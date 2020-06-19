@@ -449,7 +449,7 @@ class OpenContextAPI():
         threshold = (total_found * min_portion) 
 
         for facet in json_data.get('oc-api:has-facets', []):
-            for check_option in self.FACET_OPTION_KEYS:
+            for check_option in self.FACET_OPTIONS_KEYS:
                 if not check_option in facet:
                     # Skip, the facet does not have the current
                     # check option key.
@@ -457,9 +457,9 @@ class OpenContextAPI():
                 
                 def_uri = facet.get('rdfs:isDefinedBy', '') 
 
-                if not (df_uri == 'oc-api:facet-prop-var'
-                   or df_uri.startswith('http://opencontext.org/predicates/')):
-                   # This is not a project defined attribute
+                if not (def_uri == 'oc-api:facet-prop-var'
+                   or def_uri.startswith('http://opencontext.org/predicates/')):
+                   # This is not an Open Context project defined attribute
                     continue
 
                 for f_opt in facet[check_option]:
@@ -486,7 +486,7 @@ class OpenContextAPI():
                         # Skip, we already have this.
                         continue
                     attribute_slug_labels.append(
-                        attribute_slug_labels
+                        slug_label
                     )
         # Return the list of slug_label tuples.
         return attribute_slug_labels
