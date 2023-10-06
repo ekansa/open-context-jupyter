@@ -1,0 +1,214 @@
+{
+    "graph": [
+        {
+            "author": " ARM WG",
+            "cards": [
+                {
+                    "active": true,
+                    "cardid": "f6da00b9-42ee-11ea-9f58-024e0d439fdb",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "f6da00b7-42ee-11ea-9f58-024e0d439fdb",
+                    "helpenabled": false,
+                    "helptext": null,
+                    "helptitle": null,
+                    "instructions": null,
+                    "is_editable": true,
+                    "name": "Dimension branch (ARM WG)",
+                    "nodegroup_id": "f6da00b6-42ee-11ea-9f58-024e0d439fdb",
+                    "sortorder": null,
+                    "visible": true
+                }
+            ],
+            "cards_x_nodes_x_widgets": [],
+            "color": null,
+            "config": {},
+            "deploymentdate": null,
+            "deploymentfile": null,
+            "description": "",
+            "edges": [
+                {
+                    "description": null,
+                    "domainnode_id": "f6da00b6-42ee-11ea-9f58-024e0d439fdb",
+                    "edgeid": "14eaccc1-42ef-11ea-9f58-024e0d439fdb",
+                    "graph_id": "f6da00b7-42ee-11ea-9f58-024e0d439fdb",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                    "rangenode_id": "14eaccc0-42ef-11ea-9f58-024e0d439fdb"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "f6da00b6-42ee-11ea-9f58-024e0d439fdb",
+                    "edgeid": "2a509fa5-42ef-11ea-9f58-024e0d439fdb",
+                    "graph_id": "f6da00b7-42ee-11ea-9f58-024e0d439fdb",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P90_has_value",
+                    "rangenode_id": "2a509fa4-42ef-11ea-9f58-024e0d439fdb"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "f6da00b6-42ee-11ea-9f58-024e0d439fdb",
+                    "edgeid": "38ae753b-42ef-11ea-9f58-024e0d439fdb",
+                    "graph_id": "f6da00b7-42ee-11ea-9f58-024e0d439fdb",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P91_has_unit",
+                    "rangenode_id": "38ae753a-42ef-11ea-9f58-024e0d439fdb"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "f6da00b6-42ee-11ea-9f58-024e0d439fdb",
+                    "edgeid": "4e3256b1-42ef-11ea-9f58-024e0d439fdb",
+                    "graph_id": "f6da00b7-42ee-11ea-9f58-024e0d439fdb",
+                    "name": null,
+                    "ontologyproperty": "http://www.w3.org/2000/01/rdf-schema#label",
+                    "rangenode_id": "4e3256b0-42ef-11ea-9f58-024e0d439fdb"
+                }
+            ],
+            "functions_x_graphs": [],
+            "graphid": "f6da00b7-42ee-11ea-9f58-024e0d439fdb",
+            "iconclass": "",
+            "is_editable": true,
+            "isactive": true,
+            "isresource": false,
+            "jsonldcontext": null,
+            "name": "Dimension branch (ARM WG)",
+            "nodegroups": [
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "f6da00b6-42ee-11ea-9f58-024e0d439fdb",
+                    "parentnodegroup_id": null
+                }
+            ],
+            "nodes": [
+                {
+                    "config": null,
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "f6da00b7-42ee-11ea-9f58-024e0d439fdb",
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": true,
+                    "name": "Dimension branch (ARM WG)",
+                    "nodegroup_id": "f6da00b6-42ee-11ea-9f58-024e0d439fdb",
+                    "nodeid": "f6da00b6-42ee-11ea-9f58-024e0d439fdb",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E54_Dimension",
+                    "parentproperty": "",
+                    "sortorder": 0
+                },
+                {
+                    "config": {
+                        "rdmCollection": null
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "f6da00b7-42ee-11ea-9f58-024e0d439fdb",
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "classification",
+                    "nodegroup_id": "f6da00b6-42ee-11ea-9f58-024e0d439fdb",
+                    "nodeid": "14eaccc0-42ef-11ea-9f58-024e0d439fdb",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E55_Type",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                    "sortorder": 0
+                },
+                {
+                    "config": null,
+                    "datatype": "number",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "f6da00b7-42ee-11ea-9f58-024e0d439fdb",
+                    "is_collector": false,
+                    "isrequired": true,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "value",
+                    "nodegroup_id": "f6da00b6-42ee-11ea-9f58-024e0d439fdb",
+                    "nodeid": "2a509fa4-42ef-11ea-9f58-024e0d439fdb",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P90_has_value",
+                    "sortorder": 1
+                },
+                {
+                    "config": {
+                        "rdmCollection": null
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "f6da00b7-42ee-11ea-9f58-024e0d439fdb",
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "unit",
+                    "nodegroup_id": "f6da00b6-42ee-11ea-9f58-024e0d439fdb",
+                    "nodeid": "38ae753a-42ef-11ea-9f58-024e0d439fdb",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E58_Measurement_Unit",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P91_has_unit",
+                    "sortorder": 2
+                },
+                {
+                    "config": null,
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "f6da00b7-42ee-11ea-9f58-024e0d439fdb",
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": false,
+                    "istopnode": false,
+                    "name": "label",
+                    "nodegroup_id": "f6da00b6-42ee-11ea-9f58-024e0d439fdb",
+                    "nodeid": "4e3256b0-42ef-11ea-9f58-024e0d439fdb",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.w3.org/2000/01/rdf-schema#label",
+                    "sortorder": 0
+                }
+            ],
+            "ontology_id": "0b1f5462-faa7-11e9-8f09-3af9d3b32b71",
+            "relatable_resource_model_ids": [],
+            "resource_2_resource_constraints": [],
+            "root": {
+                "config": null,
+                "datatype": "semantic",
+                "description": "",
+                "exportable": false,
+                "fieldname": null,
+                "graph_id": "f6da00b7-42ee-11ea-9f58-024e0d439fdb",
+                "is_collector": true,
+                "isrequired": false,
+                "issearchable": true,
+                "istopnode": true,
+                "name": "Dimension branch (ARM WG)",
+                "nodegroup_id": "f6da00b6-42ee-11ea-9f58-024e0d439fdb",
+                "nodeid": "f6da00b6-42ee-11ea-9f58-024e0d439fdb",
+                "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E54_Dimension",
+                "sortorder": 0
+            },
+            "slug": null,
+            "subtitle": "",
+            "template_id": "50000000-0000-0000-0000-000000000001",
+            "version": ""
+        }
+    ],
+    "metadata": {
+        "db": "PostgreSQL 12.1 (Ubuntu 12.1-1.pgdg18.04+1) on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 7.4.0-1ubuntu1~18.04.1) 7.4.0, 64-bit",
+        "git hash": "eea31b4f1 2020-01-20 12:37:08 -0800",
+        "os": "Linux",
+        "os version": "4.15.0-1051-aws"
+    }
+}
