@@ -1,0 +1,683 @@
+Find Year,Main Object Type,Type Count,Year Total Count,Type Proportion
+1966,Architectural,238,317,0.751
+1966,Vessel,33,317,0.104
+1966,Textile Related,26,317,0.082
+1966,Tool / Weapon,5,317,0.016
+1966,"Costume, Accessories",4,317,0.013
+1966,Pyrotech Related,3,317,0.009
+1966,Fastener,2,317,0.006
+1966,Shaped Object,2,317,0.006
+1966,Figurine / Statuette,1,317,0.003
+1966,Ornament,1,317,0.003
+1966,Production Material,1,317,0.003
+1966,Production Waste,1,317,0.003
+1967,Architectural,454,541,0.839
+1967,Vessel,39,541,0.072
+1967,Textile Related,21,541,0.039
+1967,Fastener,6,541,0.011
+1967,Ornament,6,541,0.011
+1967,Shaped Object,5,541,0.009
+1967,Production Material,4,541,0.007
+1967,"Costume, Accessories",2,541,0.004
+1967,Tool / Weapon,2,541,0.004
+1967,Organic (ecofact),1,541,0.002
+1967,Stele Base,1,541,0.002
+1968,Architectural,717,835,0.859
+1968,Vessel,83,835,0.099
+1968,Textile Related,15,835,0.018
+1968,Production Material,4,835,0.005
+1968,Pyrotech Related,3,835,0.004
+1968,Shaped Object,3,835,0.004
+1968,"Costume, Accessories",2,835,0.002
+1968,Fastener,2,835,0.002
+1968,Figurine / Statuette,2,835,0.002
+1968,Tool / Weapon,2,835,0.002
+1968,Ornament,1,835,0.001
+1968,Stele Base,1,835,0.001
+1969,Architectural,304,459,0.662
+1969,Vessel,69,459,0.15
+1969,Textile Related,42,459,0.092
+1969,Fastener,12,459,0.026
+1969,"Costume, Accessories",11,459,0.024
+1969,Shaped Object,7,459,0.015
+1969,Tool / Weapon,4,459,0.009
+1969,Ornament,3,459,0.007
+1969,Organic (ecofact),2,459,0.004
+1969,Production Material,2,459,0.004
+1969,Figurine / Statuette,1,459,0.002
+1969,Pyrotech Related,1,459,0.002
+1970,Architectural,246,496,0.496
+1970,Vessel,117,496,0.236
+1970,Textile Related,71,496,0.143
+1970,Fastener,18,496,0.036
+1970,Shaped Object,14,496,0.028
+1970,"Costume, Accessories",10,496,0.02
+1970,Pyrotech Related,5,496,0.01
+1970,Tool / Weapon,5,496,0.01
+1970,Production Material,4,496,0.008
+1970,Ornament,3,496,0.006
+1970,Figurine / Statuette,1,496,0.002
+1970,Organic (ecofact),1,496,0.002
+1971,Vessel,253,958,0.264
+1971,Architectural,228,958,0.238
+1971,Textile Related,162,958,0.169
+1971,Ornament,67,958,0.07
+1971,Fastener,57,958,0.059
+1971,Shaped Object,50,958,0.052
+1971,"Costume, Accessories",37,958,0.039
+1971,Tool / Weapon,34,958,0.035
+1971,Figurine / Statuette,29,958,0.03
+1971,Production Material,21,958,0.022
+1971,Organic (ecofact),16,958,0.017
+1971,Die,1,958,0.001
+1972,Vessel,164,527,0.311
+1972,Fastener,90,527,0.171
+1972,Architectural,89,527,0.169
+1972,Textile Related,81,527,0.154
+1972,Ornament,31,527,0.059
+1972,Production Material,17,527,0.032
+1972,Organic (ecofact),15,527,0.028
+1972,Shaped Object,14,527,0.027
+1972,Unclassified / Debris / Misc.,11,527,0.021
+1972,"Costume, Accessories",10,527,0.019
+1972,Tool / Weapon,3,527,0.006
+1972,Bone,2,527,0.004
+1973,Vessel,188,332,0.566
+1973,Architectural,88,332,0.265
+1973,Textile Related,38,332,0.114
+1973,Fastener,4,332,0.012
+1973,"Costume, Accessories",3,332,0.009
+1973,Tool / Weapon,3,332,0.009
+1973,Organic (ecofact),2,332,0.006
+1973,Unclassified / Debris / Misc.,2,332,0.006
+1973,Production Material,1,332,0.003
+1973,Pyrotech Related,1,332,0.003
+1973,Shaped Object,1,332,0.003
+1974,Vessel,20,44,0.455
+1974,Textile Related,12,44,0.273
+1974,Architectural,7,44,0.159
+1974,Organic (ecofact),3,44,0.068
+1974,Unclassified / Debris / Misc.,2,44,0.045
+1975,Vessel,35,124,0.282
+1975,Textile Related,31,124,0.25
+1975,Architectural,22,124,0.177
+1975,Organic (ecofact),14,124,0.113
+1975,Ornament,6,124,0.048
+1975,"Costume, Accessories",5,124,0.04
+1975,Unclassified / Debris / Misc.,4,124,0.032
+1975,Fastener,2,124,0.016
+1975,Production Material,2,124,0.016
+1975,Shaped Object,2,124,0.016
+1975,Tool / Weapon,1,124,0.008
+1976,Vessel,64,186,0.344
+1976,Textile Related,60,186,0.323
+1976,Architectural,27,186,0.145
+1976,Tool / Weapon,10,186,0.054
+1976,Organic (ecofact),8,186,0.043
+1976,Production Material,8,186,0.043
+1976,"Costume, Accessories",3,186,0.016
+1976,Fastener,3,186,0.016
+1976,Ornament,1,186,0.005
+1976,Shaped Object,1,186,0.005
+1976,Unclassified / Debris / Misc.,1,186,0.005
+1977,Architectural,101,300,0.337
+1977,Textile Related,80,300,0.267
+1977,Vessel,80,300,0.267
+1977,Production Material,11,300,0.037
+1977,"Costume, Accessories",9,300,0.03
+1977,Ornament,5,300,0.017
+1977,Fastener,4,300,0.013
+1977,Pyrotech Related,3,300,0.01
+1977,Organic (ecofact),2,300,0.007
+1977,Tool / Weapon,2,300,0.007
+1977,Unclassified / Debris / Misc.,2,300,0.007
+1977,Shaped Object,1,300,0.003
+1978,Fastener,68,295,0.231
+1978,Vessel,52,295,0.176
+1978,Textile Related,37,295,0.125
+1978,Architectural,36,295,0.122
+1978,Ornament,33,295,0.112
+1978,Unclassified / Debris / Misc.,33,295,0.112
+1978,Shaped Object,12,295,0.041
+1978,Production Material,8,295,0.027
+1978,Organic (ecofact),6,295,0.02
+1978,"Costume, Accessories",5,295,0.017
+1978,Figurine / Statuette,2,295,0.007
+1978,Pyrotech Related,1,295,0.003
+1978,Tool / Weapon,1,295,0.003
+1979,Vessel,62,311,0.199
+1979,Ornament,52,311,0.167
+1979,Architectural,49,311,0.158
+1979,Fastener,48,311,0.154
+1979,Textile Related,41,311,0.132
+1979,Shaped Object,13,311,0.042
+1979,Unclassified / Debris / Misc.,13,311,0.042
+1979,"Costume, Accessories",11,311,0.035
+1979,Production Material,7,311,0.023
+1979,Organic (ecofact),6,311,0.019
+1979,Tool / Weapon,6,311,0.019
+1979,Figurine / Statuette,2,311,0.006
+1979,Pyrotech Related,1,311,0.003
+1980,Organic (ecofact),60,306,0.196
+1980,Architectural,57,306,0.186
+1980,Vessel,56,306,0.183
+1980,Textile Related,39,306,0.127
+1980,Fastener,26,306,0.085
+1980,Ornament,24,306,0.078
+1980,Production Material,22,306,0.072
+1980,Unclassified / Debris / Misc.,5,306,0.016
+1980,Shaped Object,4,306,0.013
+1980,"Costume, Accessories",3,306,0.01
+1980,Pyrotech Related,2,306,0.007
+1980,Tool / Weapon,2,306,0.007
+1980,Figurine / Statuette,1,306,0.003
+1981,Fastener,70,228,0.307
+1981,Vessel,32,228,0.14
+1981,Textile Related,31,228,0.136
+1981,Ornament,29,228,0.127
+1981,Architectural,22,228,0.096
+1981,Production Material,14,228,0.061
+1981,Organic (ecofact),8,228,0.035
+1981,Shaped Object,8,228,0.035
+1981,Tool / Weapon,5,228,0.022
+1981,Unclassified / Debris / Misc.,5,228,0.022
+1981,"Costume, Accessories",3,228,0.013
+1981,Production Waste,1,228,0.004
+1982,Architectural,90,195,0.462
+1982,Vessel,34,195,0.174
+1982,Ornament,21,195,0.108
+1982,Textile Related,18,195,0.092
+1982,Production Material,9,195,0.046
+1982,"Costume, Accessories",4,195,0.021
+1982,Figurine / Statuette,4,195,0.021
+1982,Fastener,3,195,0.015
+1982,Tool / Weapon,3,195,0.015
+1982,Organic (ecofact),2,195,0.01
+1982,Pyrotech Related,2,195,0.01
+1982,Shaped Object,2,195,0.01
+1982,Unclassified / Debris / Misc.,1,195,0.005
+1983,Architectural,42,105,0.4
+1983,Vessel,25,105,0.238
+1983,Textile Related,11,105,0.105
+1983,Ornament,8,105,0.076
+1983,Bone,4,105,0.038
+1983,Fastener,3,105,0.029
+1983,Figurine / Statuette,2,105,0.019
+1983,Organic (ecofact),2,105,0.019
+1983,Production Material,2,105,0.019
+1983,Shaped Object,2,105,0.019
+1983,Tool / Weapon,1,105,0.01
+1983,Unclassified / Debris / Misc.,1,105,0.01
+1984,Architectural,89,222,0.401
+1984,Vessel,85,222,0.383
+1984,Textile Related,16,222,0.072
+1984,Production Material,8,222,0.036
+1984,Tool / Weapon,5,222,0.023
+1984,Ornament,4,222,0.018
+1984,Pyrotech Related,3,222,0.014
+1984,Shaped Object,3,222,0.014
+1984,Fastener,2,222,0.009
+1984,Production Waste,2,222,0.009
+1984,Unclassified / Debris / Misc.,2,222,0.009
+1984,"Costume, Accessories",1,222,0.005
+1984,Organic (ecofact),1,222,0.005
+1985,Architectural,69,171,0.404
+1985,Vessel,37,171,0.216
+1985,Textile Related,20,171,0.117
+1985,Ornament,14,171,0.082
+1985,Production Material,6,171,0.035
+1985,Tool / Weapon,6,171,0.035
+1985,Pyrotech Related,5,171,0.029
+1985,Unclassified / Debris / Misc.,4,171,0.023
+1985,Fastener,3,171,0.018
+1985,Shaped Object,3,171,0.018
+1985,Figurine / Statuette,2,171,0.012
+1985,Production Waste,2,171,0.012
+1986,Vessel,28,90,0.311
+1986,Ornament,22,90,0.244
+1986,Architectural,21,90,0.233
+1986,Textile Related,8,90,0.089
+1986,Shaped Object,4,90,0.044
+1986,Production Waste,3,90,0.033
+1986,Fastener,1,90,0.011
+1986,Organic (ecofact),1,90,0.011
+1986,Pyrotech Related,1,90,0.011
+1986,Unclassified / Debris / Misc.,1,90,0.011
+1987,Vessel,47,157,0.299
+1987,Architectural,40,157,0.255
+1987,Textile Related,29,157,0.185
+1987,Ornament,9,157,0.057
+1987,Fastener,8,157,0.051
+1987,Tool / Weapon,6,157,0.038
+1987,Shaped Object,5,157,0.032
+1987,Pyrotech Related,4,157,0.025
+1987,Organic (ecofact),3,157,0.019
+1987,Unclassified / Debris / Misc.,3,157,0.019
+1987,Production Material,2,157,0.013
+1987,"Costume, Accessories",1,157,0.006
+1988,Architectural,80,193,0.415
+1988,Vessel,50,193,0.259
+1988,Textile Related,38,193,0.197
+1988,Pyrotech Related,5,193,0.026
+1988,Organic (ecofact),4,193,0.021
+1988,Ornament,4,193,0.021
+1988,Tool / Weapon,4,193,0.021
+1988,Shaped Object,2,193,0.01
+1988,Bone,1,193,0.005
+1988,"Costume, Accessories",1,193,0.005
+1988,Fastener,1,193,0.005
+1988,Production Material,1,193,0.005
+1988,Unclassified / Debris / Misc.,1,193,0.005
+1989,Architectural,52,178,0.292
+1989,Textile Related,35,178,0.197
+1989,Vessel,32,178,0.18
+1989,Tool / Weapon,17,178,0.096
+1989,Ornament,11,178,0.062
+1989,Organic (ecofact),10,178,0.056
+1989,Fastener,5,178,0.028
+1989,Pyrotech Related,5,178,0.028
+1989,Production Waste,4,178,0.022
+1989,Unclassified / Debris / Misc.,4,178,0.022
+1989,Production Material,2,178,0.011
+1989,"Costume, Accessories",1,178,0.006
+1990,Textile Related,21,101,0.208
+1990,Architectural,18,101,0.178
+1990,Vessel,15,101,0.149
+1990,Production Waste,13,101,0.129
+1990,Ornament,8,101,0.079
+1990,Unclassified / Debris / Misc.,7,101,0.069
+1990,"Costume, Accessories",5,101,0.05
+1990,Fastener,3,101,0.03
+1990,Production Material,3,101,0.03
+1990,Pyrotech Related,3,101,0.03
+1990,Bone,2,101,0.02
+1990,Organic (ecofact),1,101,0.01
+1990,Shaped Object,1,101,0.01
+1990,Tool / Weapon,1,101,0.01
+1991,Textile Related,11,41,0.268
+1991,Vessel,11,41,0.268
+1991,Architectural,8,41,0.195
+1991,Organic (ecofact),2,41,0.049
+1991,Production Material,2,41,0.049
+1991,Pyrotech Related,2,41,0.049
+1991,Unclassified / Debris / Misc.,2,41,0.049
+1991,"Costume, Accessories",1,41,0.024
+1991,Fastener,1,41,0.024
+1991,Production Waste,1,41,0.024
+1992,Vessel,34,87,0.391
+1992,Production Material,11,87,0.126
+1992,Ornament,10,87,0.115
+1992,Fastener,7,87,0.08
+1992,Textile Related,6,87,0.069
+1992,Unclassified / Debris / Misc.,6,87,0.069
+1992,Architectural,4,87,0.046
+1992,Organic (ecofact),4,87,0.046
+1992,"Costume, Accessories",2,87,0.023
+1992,Pyrotech Related,1,87,0.011
+1993,Vessel,44,146,0.301
+1993,Architectural,25,146,0.171
+1993,Textile Related,16,146,0.11
+1993,Fastener,13,146,0.089
+1993,"Costume, Accessories",10,146,0.068
+1993,Shaped Object,8,146,0.055
+1993,Pyrotech Related,7,146,0.048
+1993,Unclassified / Debris / Misc.,7,146,0.048
+1993,Production Material,6,146,0.041
+1993,Organic (ecofact),2,146,0.014
+1993,Ornament,2,146,0.014
+1993,Production Waste,1,146,0.007
+1993,Tool / Weapon,1,146,0.007
+1994,Vessel,51,184,0.277
+1994,Architectural,33,184,0.179
+1994,Production Material,28,184,0.152
+1994,Textile Related,20,184,0.109
+1994,Ornament,12,184,0.065
+1994,Organic (ecofact),9,184,0.049
+1994,Unclassified / Debris / Misc.,7,184,0.038
+1994,Shaped Object,6,184,0.033
+1994,"Costume, Accessories",5,184,0.027
+1994,Fastener,3,184,0.016
+1994,Pyrotech Related,2,184,0.011
+1994,Production Waste,1,184,0.005
+1994,Tool / Weapon,1,184,0.005
+1995,Vessel,64,192,0.333
+1995,Production Material,32,192,0.167
+1995,Architectural,22,192,0.115
+1995,Unclassified / Debris / Misc.,20,192,0.104
+1995,Textile Related,13,192,0.068
+1995,Organic (ecofact),8,192,0.042
+1995,Fastener,6,192,0.031
+1995,Pyrotech Related,6,192,0.031
+1995,Shaped Object,5,192,0.026
+1995,Ornament,4,192,0.021
+1995,"Costume, Accessories",3,192,0.016
+1995,Production Waste,1,192,0.005
+1995,Tool / Weapon,1,192,0.005
+1996,Vessel,31,125,0.248
+1996,Textile Related,21,125,0.168
+1996,Production Material,19,125,0.152
+1996,Shaped Object,10,125,0.08
+1996,Architectural,9,125,0.072
+1996,Fastener,8,125,0.064
+1996,"Costume, Accessories",7,125,0.056
+1996,Tool / Weapon,4,125,0.032
+1996,Unclassified / Debris / Misc.,4,125,0.032
+1996,Organic (ecofact),3,125,0.024
+1996,Ornament,3,125,0.024
+1996,Pyrotech Related,3,125,0.024
+1996,Production Waste,1,125,0.008
+1997,Vessel,67,187,0.358
+1997,Production Material,27,187,0.144
+1997,Architectural,26,187,0.139
+1997,Textile Related,23,187,0.123
+1997,Unclassified / Debris / Misc.,21,187,0.112
+1997,Pyrotech Related,6,187,0.032
+1997,Shaped Object,4,187,0.021
+1997,"Costume, Accessories",3,187,0.016
+1997,Organic (ecofact),3,187,0.016
+1997,Fastener,1,187,0.005
+1997,Ornament,1,187,0.005
+1997,Production Waste,1,187,0.005
+1998,Textile Related,43,186,0.231
+1998,Vessel,43,186,0.231
+1998,Architectural,26,186,0.14
+1998,Production Material,18,186,0.097
+1998,Organic (ecofact),16,186,0.086
+1998,Unclassified / Debris / Misc.,11,186,0.059
+1998,Shaped Object,7,186,0.038
+1998,"Costume, Accessories",6,186,0.032
+1998,Pyrotech Related,4,186,0.022
+1998,Fastener,3,186,0.016
+1998,Ornament,2,186,0.011
+1998,Tool / Weapon,2,186,0.011
+1998,Bone,1,186,0.005
+1998,Production Waste,1,186,0.005
+1999,Vessel,38,107,0.355
+1999,Textile Related,22,107,0.206
+1999,Architectural,9,107,0.084
+1999,Organic (ecofact),7,107,0.065
+1999,Unclassified / Debris / Misc.,7,107,0.065
+1999,Production Material,6,107,0.056
+1999,Pyrotech Related,4,107,0.037
+1999,Tool / Weapon,4,107,0.037
+1999,"Costume, Accessories",3,107,0.028
+1999,Ornament,3,107,0.028
+1999,Fastener,2,107,0.019
+1999,Shaped Object,2,107,0.019
+2000,Vessel,53,150,0.353
+2000,Architectural,39,150,0.26
+2000,Textile Related,13,150,0.087
+2000,Shaped Object,9,150,0.06
+2000,Unclassified / Debris / Misc.,9,150,0.06
+2000,Fastener,8,150,0.053
+2000,Pyrotech Related,7,150,0.047
+2000,Production Material,6,150,0.04
+2000,Organic (ecofact),3,150,0.02
+2000,"Costume, Accessories",1,150,0.007
+2000,Ornament,1,150,0.007
+2000,Tool / Weapon,1,150,0.007
+2001,Vessel,39,97,0.402
+2001,Architectural,19,97,0.196
+2001,Textile Related,11,97,0.113
+2001,Unclassified / Debris / Misc.,9,97,0.093
+2001,Production Material,5,97,0.052
+2001,Shaped Object,4,97,0.041
+2001,"Costume, Accessories",3,97,0.031
+2001,Fastener,2,97,0.021
+2001,Ornament,1,97,0.01
+2001,Production Waste,1,97,0.01
+2001,Pyrotech Related,1,97,0.01
+2001,Tool / Weapon,1,97,0.01
+2002,Architectural,18,81,0.222
+2002,Vessel,15,81,0.185
+2002,Textile Related,10,81,0.123
+2002,Unclassified / Debris / Misc.,9,81,0.111
+2002,Production Material,6,81,0.074
+2002,"Costume, Accessories",5,81,0.062
+2002,Fastener,5,81,0.062
+2002,Organic (ecofact),4,81,0.049
+2002,Production Waste,4,81,0.049
+2002,Shaped Object,4,81,0.049
+2002,Ornament,1,81,0.012
+2003,Textile Related,33,161,0.205
+2003,Architectural,30,161,0.186
+2003,Vessel,28,161,0.174
+2003,Unclassified / Debris / Misc.,12,161,0.075
+2003,Production Material,11,161,0.068
+2003,Fastener,10,161,0.062
+2003,Organic (ecofact),8,161,0.05
+2003,Ornament,8,161,0.05
+2003,"Costume, Accessories",7,161,0.043
+2003,Production Waste,5,161,0.031
+2003,Tool / Weapon,4,161,0.025
+2003,Shaped Object,3,161,0.019
+2003,Pyrotech Related,2,161,0.012
+2004,Vessel,40,192,0.208
+2004,Textile Related,38,192,0.198
+2004,Architectural,37,192,0.193
+2004,Fastener,15,192,0.078
+2004,Unclassified / Debris / Misc.,14,192,0.073
+2004,"Costume, Accessories",12,192,0.062
+2004,Organic (ecofact),9,192,0.047
+2004,Shaped Object,8,192,0.042
+2004,Production Material,7,192,0.036
+2004,Ornament,4,192,0.021
+2004,Pyrotech Related,3,192,0.016
+2004,Tool / Weapon,3,192,0.016
+2004,Figurine / Statuette,1,192,0.005
+2004,Production Waste,1,192,0.005
+2005,Vessel,65,191,0.34
+2005,Organic (ecofact),29,191,0.152
+2005,Architectural,26,191,0.136
+2005,Textile Related,16,191,0.084
+2005,Unclassified / Debris / Misc.,15,191,0.079
+2005,Shaped Object,13,191,0.068
+2005,Production Waste,7,191,0.037
+2005,Fastener,5,191,0.026
+2005,Production Material,5,191,0.026
+2005,Ornament,3,191,0.016
+2005,Tool / Weapon,3,191,0.016
+2005,"Costume, Accessories",2,191,0.01
+2005,Pyrotech Related,2,191,0.01
+2006,Vessel,148,244,0.607
+2006,Architectural,49,244,0.201
+2006,Unclassified / Debris / Misc.,19,244,0.078
+2006,Textile Related,15,244,0.061
+2006,Shaped Object,6,244,0.025
+2006,Fastener,2,244,0.008
+2006,Production Material,2,244,0.008
+2006,Pyrotech Related,2,244,0.008
+2006,Tool / Weapon,1,244,0.004
+2007,Vessel,117,349,0.335
+2007,Textile Related,84,349,0.241
+2007,Architectural,45,349,0.129
+2007,Production Material,29,349,0.083
+2007,Fastener,16,349,0.046
+2007,Unclassified / Debris / Misc.,16,349,0.046
+2007,"Costume, Accessories",10,349,0.029
+2007,Ornament,8,349,0.023
+2007,Organic (ecofact),7,349,0.02
+2007,Shaped Object,7,349,0.02
+2007,Pyrotech Related,4,349,0.011
+2007,Tool / Weapon,4,349,0.011
+2007,Production Waste,1,349,0.003
+2008,Vessel,86,242,0.355
+2008,Organic (ecofact),38,242,0.157
+2008,Production Material,25,242,0.103
+2008,Architectural,21,242,0.087
+2008,Textile Related,21,242,0.087
+2008,"Costume, Accessories",11,242,0.045
+2008,Fastener,8,242,0.033
+2008,Unclassified / Debris / Misc.,7,242,0.029
+2008,Tool / Weapon,6,242,0.025
+2008,Shaped Object,5,242,0.021
+2008,Ornament,4,242,0.017
+2008,Pyrotech Related,3,242,0.012
+2008,Bone,1,242,0.004
+2008,Figurine / Statuette,1,242,0.004
+2009,Vessel,95,304,0.312
+2009,Textile Related,50,304,0.164
+2009,Architectural,38,304,0.125
+2009,Organic (ecofact),31,304,0.102
+2009,Unclassified / Debris / Misc.,20,304,0.066
+2009,Fastener,18,304,0.059
+2009,Shaped Object,11,304,0.036
+2009,Ornament,9,304,0.03
+2009,Production Material,9,304,0.03
+2009,Production Waste,9,304,0.03
+2009,"Costume, Accessories",8,304,0.026
+2009,Tool / Weapon,3,304,0.01
+2009,Bone,1,304,0.003
+2009,Die,1,304,0.003
+2009,Pyrotech Related,1,304,0.003
+2010,Vessel,29,94,0.309
+2010,Textile Related,20,94,0.213
+2010,Architectural,13,94,0.138
+2010,Production Material,13,94,0.138
+2010,Shaped Object,4,94,0.043
+2010,Unclassified / Debris / Misc.,4,94,0.043
+2010,Organic (ecofact),3,94,0.032
+2010,Ornament,2,94,0.021
+2010,Pyrotech Related,2,94,0.021
+2010,"Costume, Accessories",1,94,0.011
+2010,Fastener,1,94,0.011
+2010,Production Waste,1,94,0.011
+2010,Tool / Weapon,1,94,0.011
+2011,Architectural,53,101,0.525
+2011,Production Material,13,101,0.129
+2011,Vessel,11,101,0.109
+2011,Pyrotech Related,10,101,0.099
+2011,Unclassified / Debris / Misc.,5,101,0.05
+2011,Textile Related,4,101,0.04
+2011,Production Waste,3,101,0.03
+2011,"Costume, Accessories",2,101,0.02
+2012,Vessel,50,243,0.206
+2012,Architectural,37,243,0.152
+2012,Production Waste,33,243,0.136
+2012,Textile Related,23,243,0.095
+2012,Production Material,21,243,0.086
+2012,Fastener,18,243,0.074
+2012,Shaped Object,16,243,0.066
+2012,Organic (ecofact),11,243,0.045
+2012,Pyrotech Related,10,243,0.041
+2012,Unclassified / Debris / Misc.,10,243,0.041
+2012,"Costume, Accessories",8,243,0.033
+2012,Ornament,3,243,0.012
+2012,Coin,2,243,0.008
+2012,Tool / Weapon,1,243,0.004
+2013,Vessel,73,284,0.257
+2013,Organic (ecofact),46,284,0.162
+2013,Production Material,36,284,0.127
+2013,Textile Related,26,284,0.092
+2013,Production Waste,24,284,0.085
+2013,Pyrotech Related,19,284,0.067
+2013,Shaped Object,16,284,0.056
+2013,Unclassified / Debris / Misc.,12,284,0.042
+2013,"Costume, Accessories",10,284,0.035
+2013,Fastener,10,284,0.035
+2013,Architectural,7,284,0.025
+2013,Ornament,4,284,0.014
+2013,Bone,1,284,0.004
+2014,Organic (ecofact),29,144,0.201
+2014,Vessel,27,144,0.188
+2014,Architectural,25,144,0.174
+2014,Textile Related,17,144,0.118
+2014,Unclassified / Debris / Misc.,13,144,0.09
+2014,Production Material,8,144,0.056
+2014,Production Waste,8,144,0.056
+2014,Fastener,4,144,0.028
+2014,Figurine / Statuette,4,144,0.028
+2014,Shaped Object,4,144,0.028
+2014,"Costume, Accessories",2,144,0.014
+2014,Coin,1,144,0.007
+2014,Ornament,1,144,0.007
+2014,Pyrotech Related,1,144,0.007
+2015,Vessel,77,214,0.36
+2015,Architectural,66,214,0.308
+2015,Textile Related,32,214,0.15
+2015,Organic (ecofact),11,214,0.051
+2015,Unclassified / Debris / Misc.,8,214,0.037
+2015,Production Material,4,214,0.019
+2015,Fastener,3,214,0.014
+2015,Figurine / Statuette,3,214,0.014
+2015,"Costume, Accessories",2,214,0.009
+2015,Production Waste,2,214,0.009
+2015,Pyrotech Related,2,214,0.009
+2015,Shaped Object,1,214,0.005
+2015,Stone object,1,214,0.005
+2015,Tool / Weapon,1,214,0.005
+2016,Vessel,120,255,0.471
+2016,Architectural,38,255,0.149
+2016,Textile Related,22,255,0.086
+2016,"Costume, Accessories",16,255,0.063
+2016,Organic (ecofact),11,255,0.043
+2016,Unclassified / Debris / Misc.,11,255,0.043
+2016,Production Waste,10,255,0.039
+2016,Production Material,8,255,0.031
+2016,Shaped Object,5,255,0.02
+2016,Fastener,4,255,0.016
+2016,Pyrotech Related,4,255,0.016
+2016,Tool / Weapon,2,255,0.008
+2016,Coin,1,255,0.004
+2016,Other,1,255,0.004
+2017,Vessel,46,129,0.357
+2017,Architectural,23,129,0.178
+2017,Unclassified / Debris / Misc.,19,129,0.147
+2017,Textile Related,11,129,0.085
+2017,"Costume, Accessories",5,129,0.039
+2017,Organic (ecofact),5,129,0.039
+2017,Ornament,4,129,0.031
+2017,Production Material,4,129,0.031
+2017,Production Waste,4,129,0.031
+2017,Shaped Object,4,129,0.031
+2017,Tool / Weapon,2,129,0.016
+2017,Pyrotech Related,1,129,0.008
+2018,Organic (ecofact),14,73,0.192
+2018,Architectural,13,73,0.178
+2018,Vessel,11,73,0.151
+2018,Pyrotech Related,9,73,0.123
+2018,Textile Related,8,73,0.11
+2018,"Costume, Accessories",5,73,0.068
+2018,Shaped Object,5,73,0.068
+2018,Fastener,2,73,0.027
+2018,Production Material,2,73,0.027
+2018,Ornament,1,73,0.014
+2018,Production Waste,1,73,0.014
+2018,Tool / Weapon,1,73,0.014
+2019,Vessel,39,126,0.31
+2019,Textile Related,26,126,0.206
+2019,Architectural,21,126,0.167
+2019,Organic (ecofact),14,126,0.111
+2019,Production Material,6,126,0.048
+2019,Fastener,5,126,0.04
+2019,Pyrotech Related,5,126,0.04
+2019,Shaped Object,4,126,0.032
+2019,"Costume, Accessories",3,126,0.024
+2019,Production Waste,1,126,0.008
+2019,Tool / Weapon,1,126,0.008
+2022,Vessel,28,95,0.295
+2022,Architectural,21,95,0.221
+2022,Textile Related,13,95,0.137
+2022,"Costume, Accessories",7,95,0.074
+2022,Fastener,7,95,0.074
+2022,Organic (ecofact),4,95,0.042
+2022,Production Material,4,95,0.042
+2022,Production Waste,3,95,0.032
+2022,Shaped Object,3,95,0.032
+2022,Pyrotech Related,2,95,0.021
+2022,Die,1,95,0.011
+2022,Tool / Weapon,1,95,0.011
+2022,Unclassified / Debris / Misc.,1,95,0.011
+2023,Vessel,41,132,0.311
+2023,Architectural,32,132,0.242
+2023,Organic (ecofact),27,132,0.205
+2023,Shaped Object,7,132,0.053
+2023,Textile Related,7,132,0.053
+2023,"Costume, Accessories",5,132,0.038
+2023,Fastener,5,132,0.038
+2023,Production Waste,3,132,0.023
+2023,Ornament,1,132,0.008
+2023,Production Material,1,132,0.008
+2023,Pyrotech Related,1,132,0.008
+2023,Tool / Weapon,1,132,0.008
+2023,Unclassified / Debris / Misc.,1,132,0.008
