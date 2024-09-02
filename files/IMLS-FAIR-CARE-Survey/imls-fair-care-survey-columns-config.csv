@@ -1,0 +1,221 @@
+orig_column_index,raw_column,Question Number,Question,Working_Column_Name,Rename_old,Important for Analysis,Section,Sub-Section
+0,Start Date,,,,,,SKIP,SKIP
+1,End Date,,,,,,SKIP,SKIP
+2,Response Type,,,,,,SKIP,SKIP
+3,IP Address,,,,,,SKIP,SKIP
+4,Progress,,,,,,SKIP,SKIP
+5,Duration (in seconds),,,,,,SKIP,SKIP
+6,Finished,,,Finished,,,Metadata,General
+7,Recorded Date,,,Recorded Date,,,Metadata,General
+8,Response ID,,,Response ID,,,KEY,KEY
+9,Recipient Last Name,,,,,,SKIP,SKIP
+10,Recipient First Name,,,,,,SKIP,SKIP
+11,Recipient Email,,,,,,SKIP,SKIP
+12,External Data Reference,,,,,,SKIP,SKIP
+13,Location Latitude,,,,,,SKIP,SKIP
+14,Location Longitude,,,,,,SKIP,SKIP
+15,Distribution Channel,,,,,,SKIP,SKIP
+16,User Language,,,,,,SKIP,SKIP
+17,"Overview
+The survey invites you to describe how you collect, manage, preserve, curate, share, and store cultural information  (broadly defined) during the course of your work/life.
+
+Your participation will be anonymous. While the survey is structured around FAIR and CARE data practices, survey respondents do not need to have familiarity with the FAIR and CARE principles. Thank you so much for taking the time to share your expertise and experiences to help guide this work! 
+UPDATE (5/31/24): The survey will be open until June 30, 2024. 
+
+A few important points: 
+- The survey should take approximately 30 minutes, depending on how detailed you are in your responses. 
+- The survey will save your progress, so you may leave at any time and return later to complete it (within 7 days). 
+- The only question with a required answer is ""I consent"" below. You may skip any other questions that do not apply to your experience/sector. 
+
+Who is doing the research?
+ 
+This survey is developed by the FAIR+CARE Cultural Heritage Network, supported by the Advancing FAIR+CARE Practices in Cultural Heritage project, a 3-year initiative funded by the Institute of Museum and Library Services (awarded to the Alexandria Archive Institute). The project aims to develop, disseminate, and promote ethical good practice guidance and governance models for digital data in the cultural heritage sector. 
+
+How will I be asked to provide data?
+
+You will be asked to participate in one or both of the following activities aimed at collecting quantitative and qualitative evaluation data:  
+(1) Responding to the Online Survey of Cultural Heritage Professionals as an individual
+
+(2) Responding to the Online Survey of Cultural Heritage Professionals as a representative of an organization
+
+ Will my participation be confidential?
+Yes. This survey is anonymous.  No one, including the researchers, will be able to associate your responses with your identity.  Your participation is voluntary.  You may choose not to take the survey, to stop responding at any time, or to skip any questions that you do not want to answer.   Your completion of the survey serves as your voluntary agreement to allow the anonymous data gathered to be used for this study and in future research. 
+
+What will happen to my data?
+
+The data will be used in analysis to inform the development of guidelines and tools related to improving FAIR+CARE practices around cultural heritage data. Survey data will be securely stored and will be retained for use in future research. Copies of the data will also be stored electronically on both password-protected hard drives and a password-protected online storage account. 
+
+Who should I contact if I have questions?
+
+Should you have any questions or concerns about the research or your contribution to it, please contact Sarah Kansa at sarah@opencontext.org​ or via mail at 125 El Verano Way, San Francisco, CA 94127. 
+
+Click below to consent to this study and proceed with the survey. Thank you in advance for your participation!",,,,,,SKIP,SKIP
+18,"A few demographics questions to begin: 
+
+(Reminder: If you prefer not to respond, simply skip the question.)
+
+Age Range",-9,QID3 ,Demo: Age Range,[Demo] Age Range,,Demographics,General
+19,Gender,-8,QID4,Demo: Gender,[Demo] Gender,,Demographics,General
+20,Choose one or more races that you consider yourself to be - Selected Choice,-7,QID84 ,Demo: Race/Ethnicity,[Demo] Race/Ethnicity,,Demographics,General
+21,Choose one or more races that you consider yourself to be - Other - Text,-7,QID84 ,"Demo: Race/Ethnicity, Other, Text","[Demo] Race/Ethnicity, Other, Text",,Demographics,General
+22,Highest Academic Degree - Selected Choice,-6,QID5 ,Edu: Highest Degree,[Edu] Highest Degree,,Demographics,General
+23,Highest Academic Degree - Other qualification or certification (describe) - Text,-6,QID5 ,"Edu: Other qualifications, Text","[Edu] Other qualifications, Text",,Demographics,General
+24,In what discipline did you earn your highest degree?,-5,QID6 ,"Edu: Highest Degree Discipline, Text","[Edu] Highest Degree Discipline, Text",,Demographics,General
+25,What is your current or most recent work setting? (select multiple if joint appointment) - Selected Choice,-3,QID7 ,Work: Work setting,[Work] Work setting,,Demographics,General
+26,What is your current or most recent work setting? (select multiple if joint appointment) - Other - Text,-4,QID7 ,"Work: Work setting, Other, Text","[Work] Work setting, Other, Text",,Demographics,General
+27,Have you had experience in any of the following aspects of working with data? (check all that apply),-2,QID8 ,Experience: Data,[Experience] Data,,Demographics,General
+28,Where do you currently work or conduct research? (may select multiple) - Selected Choice,-1,QID9 ,Region Focus: Work/research Region,[Region Focus] Work/research Region,,Demographics,General
+29,Where do you currently work or conduct research? (may select multiple) - Africa (specify region) - Text,-1,QID9 ,"Region Focus: Work/research, Africa, Text","[Region Focus] Work/research, Africa, Text",,Demographics,General
+30,Where do you currently work or conduct research? (may select multiple) - Asia (specify region) - Text,-1,QID9 ,"Region Focus: Work/research, Asia, Text","[Region Focus] Work/research, Asia, Text",,Demographics,General
+31,Where do you currently work or conduct research? (may select multiple) - Europe (specify region) - Text,-1,QID9 ,"Region Focus: Work/research, Europe, Text","[Region Focus] Work/research, Europe, Text",,Demographics,General
+32,Where do you currently work or conduct research? (may select multiple) - North America (specify region) - Text,-1,QID9 ,"Region Focus: Work/research, N America, Text","[Region Focus] Work/research, N America, Text",,Demographics,General
+33,Where do you currently work or conduct research? (may select multiple) - South America (specify region) - Text,-1,QID9 ,"Region Focus: Work/research, S America, Text","[Region Focus] Work/research, S America, Text",,Demographics,General
+34,Where do you currently work or conduct research? (may select multiple) - Other - Text,-1,QID9 ,"Region Focus: Work/research, Other, Text","[Region Focus] Work/research, Other, Text",,Demographics,General
+35,"This survey aims to understand FAIR+CARE practices in various settings. From this point forward, please indicate whether you will be responding as an Individual or on behalf of an Organization. 
+Note: You may respond as one and return to take the survey again as the other.
+
+
+Select one: - Selected Choice",0,QID10 ,Response Type: Individual or Org ,[Response Type] Individual or Org ,Yes,General,General
+36,"This survey aims to understand FAIR+CARE practices in various settings. From this point forward, please indicate whether you will be responding as an Individual or on behalf of an Organization. 
+Note: You may respond as one and return to take the survey again as the other.
+
+
+Select one: - Organization (please indicate the type [Academic Unit, Tribe, Agency, Company, Lab, Museum, etc.] and size [1-5, 6-10, 11-20, >20 people]) - Text",0,QID10 ,"Response Type: Org, Text","[Response Type] Org, Text",Yes,General,General
+37,Which statement reflects how you work with data? (select all that apply) - Selected Choice,1,1,Data Role: How You Work with Data,[Data Role] How You Work with Data,,Demographics,Data Role
+38,Which statement reflects how you work with data? (select all that apply) - Other (explain) - Text,1,1,"Data Role: How You Work with Data, Text","[Data Role] How You Work with Data, Text",,Demographics,Data Role
+39,How are your digital data organized? (select all that apply) - Proprietary Database (e.g. MSAccess),2,2,Data Org: Proprietary DB,[Data Org] Proprietary DB,,FAIR,Findable
+40,"How are your digital data organized? (select all that apply) - Collections Management Database (Rediscovery, EMU)",2,2,Data Org: CM DB,[Data Org] CM DB,,FAIR,Findable
+41,"How are your digital data organized? (select all that apply) - Open Source Database (MySQL, PostgresSQL)",2,2,Data Org: Open DB,[Data Org] Open DB,,FAIR,Findable
+42,"How are your digital data organized? (select all that apply) - Spreadsheets (Google, Excel)",2,2,Data Org: Spreadsheet,[Data Org] Spreadsheet,,FAIR,Findable
+43,"How are your digital data organized? (select all that apply) - Geographic Information System (ESRI, QGIS)",2,2,Data Org: GIS,[Data Org] GIS,,FAIR,Findable
+44,How are your digital data organized? (select all that apply) - Word Document/PDF Report,2,2,Data Org: Word or PDF,[Data Org] Word or PDF,,FAIR,Findable
+45,How are your digital data organized? (select all that apply) - Image files organized in directories,2,2,Data Org: Images in folders,[Data Org] Images in folders,,FAIR,Findable
+46,"How are your digital data organized? (select all that apply) - Web content management system (WordPress, Omeka, Drupal)",2,2,Data Org: Web CMS,[Data Org] Web CMS,,FAIR,Findable
+47,How are your digital data organized? (select all that apply) - Other (explain),2,2,Data Org: Other,[Data Org] Other,,FAIR,Findable
+48,How are your digital data organized? (select all that apply) - Other (explain) - Text,2,2,"Data Org: Other, Text","[Data Org] Other, Text",,FAIR,Findable
+49,Where do you store your final digital files after the completion of a project? (select all that apply) - Selected Choice,3,3,Data Store: Data Storage,[Data Store] Data Storage,,FAIR,Findable
+50,Where do you store your final digital files after the completion of a project? (select all that apply) - Other or additional details: - Text,3,3,"Data Store: Data Storage, Other, Text","[Data Store] Data Storage, Other, Text",,FAIR,Findable
+51,Are data from past investigations conducted by you or your organization findable by others? - Selected Choice,4,4,Findable: How,[Findable] How,,FAIR,Findable
+52,Are data from past investigations conducted by you or your organization findable by others? - Yes (by whom?) - Text,4,4,"Findable: Yes, Text","[Findable] Yes, Text",,FAIR,Findable
+53,Are data from past investigations conducted by you or your organization findable by others? - No (explain) - Text,4,4,"Findable: No, Explain, Text","[Findable] No, Explain, Text",,FAIR,Findable
+54,Are data from past investigations conducted by you or your organization findable by others? - Sometimes (explain) - Text,4,4,"Findable: Sometimes, Explain, Text","[Findable] Sometimes, Explain, Text",,FAIR,Findable
+55,"What types of identifiers do you use, or are assigned on your behalf, to name datasets and/or data records that are shared and referenced by multiple people? (select all that apply) - Selected Choice",5,5,Identifiers: Identifier Types,[Identifiers] Identifier Types,,FAIR,Findable
+56,"What types of identifiers do you use, or are assigned on your behalf, to name datasets and/or data records that are shared and referenced by multiple people? (select all that apply) - Other or additional details: - Text",5,5,"Identifiers: Other, Text","[Identifiers] Other, Text",,FAIR,Findable
+57,Do you / your organization create or use metadata (documentation about how your data are organized)  in your work?,6,6,Metadata: Metadata Use,[Metadata] Metadata Use,,FAIR,Findable
+58,"If you create metadata, is it publicly searchable through a separate interface (e.g., a search bar on a website)? - Selected Choice",7,7,Metadata Search: Metadata Search Method,[Metadata Search] Metadata Search Method,,FAIR,Findable
+59,"If you create metadata, is it publicly searchable through a separate interface (e.g., a search bar on a website)? - Yes, and here are some examples (e.g. Google, institutional repository): - Text",7,7,"Metadata Search: Metadata Search Method, Text","[Metadata Search] Metadata Search Method, Text",,FAIR,Findable
+60,"Are supplemental data/resources associated with your publications or reports (e.g. data sets, image archives, databases, software, code, etc.) publicly shared? - Selected Choice",8,8,Supplemental Data: Data Types,[Supplemental Data] Data Types,,FAIR,Findable
+61,"Are supplemental data/resources associated with your publications or reports (e.g. data sets, image archives, databases, software, code, etc.) publicly shared? - Other - Text",8,8,"Supplemental Data: Other, Text","[Supplemental Data] Other, Text",,FAIR,Findable
+62,"If there is a cost associated with making the supplemental data/resources tied to your publications available, who covers the cost? - Selected Choice",9,9,Cost Paid: Response,[Cost Paid] Response,,FAIR,Findable
+63,"If there is a cost associated with making the supplemental data/resources tied to your publications available, who covers the cost? - Other or additional information: - Text",9,9,"Cost Paid: Other, Text","[Cost Paid] Other, Text",,FAIR,Findable
+64,How accessible are the data in your possession to others? (select all that apply) - Selected Choice,10,10,Accessible: Access Type,[Accessible] Access Type,,FAIR,Accessible
+65,How accessible are the data in your possession to others? (select all that apply) - Additional information: - Text,10,10,"Accessible: Additional info, Text","[Accessible] Additional info, Text",,FAIR,Accessible
+66,Why do you acquire data? (select all that apply) - Selected Choice,11,11,Why Acquire: Data Acquisition,[Why Acquire] Data Acquisition,,FAIR,Accessible
+67,Why do you acquire data? (select all that apply) - Other (fill in) - Text,11,11,"Why Acquire: Other, Text","[Why Acquire] Other, Text",,FAIR,Accessible
+68,"How do you acquire data? (select all that apply) - Field investigation (e.g. survey, excavation, geophysical, remote detection, etc.)",12,12,How Acquire: Field Investigation,[How Acquire] Field Investigation,,FAIR,Accessible
+69,"How do you acquire data? (select all that apply) - Existing collections or repositories (e.g. private, museum, university, archives, libraries, etc.)",12,12,How Acquire: Existing Collections,[How Acquire] Existing Collections,,FAIR,Accessible
+70,"How do you acquire data? (select all that apply) - Oral history interviews, or ethnographic/participant observation",12,12,How Acquire: Ethnographic,[How Acquire] Ethnographic,,FAIR,Accessible
+71,"How do you acquire data? (select all that apply) - Samples and specialized laboratory techniques (e.g. isotropic, biomolecular, geochemical, petrography, radiocarbon, etc.)",12,12,How Acquire: Lab Techniques,[How Acquire] Lab Techniques,,FAIR,Accessible
+72,"How do you acquire data? (select all that apply) - ‘Grey literature’ and/or published reports and published datasets (e.g. CRM reports, site inventories, journal articles, monographs, book chapters, etc.)",12,12,How Acquire: Grey Literature,[How Acquire] Grey Literature,,FAIR,Accessible
+73,"How do you acquire data? (select all that apply) - Digital repositories (DAACS, tDAR, ADS, Open Context) or other online data (websites)",12,12,How Acquire: Digital Repositories or Websites,[How Acquire] Digital Repositories or Websites,,FAIR,Accessible
+74,How do you acquire data? (select all that apply) - Other - please explain,12,12,How Acquire: Other,[How Acquire] Other,,FAIR,Accessible
+75,How do you acquire data? (select all that apply) - Other - please explain - Text,12,12,"How Acquire: Other, Text","[How Acquire] Other, Text",,FAIR,Accessible
+76,How do you attribute other’s data that you use in your work? (select  all that apply),13,13,Attribute: How Do You Attribute Data,[Attribute] How Do You Attribute Data,,FAIR,Accessible
+77,Have you ever received/worked with a dataset you haven’t been able to understand? Please select all that apply and/or explain. - Selected Choice,14,14,Understanding: Problems Understanding Data,[Understanding] Problems Understanding Data,,FAIR,Interoperable
+78,Have you ever received/worked with a dataset you haven’t been able to understand? Please select all that apply and/or explain. - Other or additional explanation: - Text,14,14,"Understanding: Problems Understanding Data, Text","[Understanding] Problems Understanding Data, Text",,FAIR,Interoperable
+79,Which shared terms (used by others) work best for you to make your data interoperable with other data? - Selected Choice,15,15,Shared Terms: Shared Terms That Best Work,[Shared Terms] Shared Terms That Best Work,,FAIR,Interoperable
+80,Which shared terms (used by others) work best for you to make your data interoperable with other data? - Co-created terms (explain) - Text,15,15,"Shared Terms: Shared Terms, Co-Created, Text","[Shared Terms] Shared Terms, Co-Created, Text",,FAIR,Interoperable
+81,Which shared terms (used by others) work best for you to make your data interoperable with other data? - Other (explain) - Text,15,15,"Shared Terms: Shared Terms, Other, Text","[Shared Terms] Shared Terms, Other, Text",,FAIR,Interoperable
+82,Select the most common types of media you use to manage data (leave blank if you don't use that type of data): - Selected Choice,16,16,Media Used: Types of Media Used,[Media Used] Types of Media Used,,FAIR,Reusable
+83,"Select the most common types of media you use to manage data (leave blank if you don't use that type of data): - Proprietary instrument  or other specialized media (e.g. drone, photogrammetry, laser scan data) - Text",16,16,"Media Used: Proprietary or Instrument, Text","[Media Used] Proprietary or Instrument, Text",,FAIR,Reusable
+84,"Select the most common types of media you use to manage data (leave blank if you don't use that type of data): - Other (e.g. cloud formats such as Google sheets, Google docs, etc.) - Text",16,16,"Media Used: Other, Text","[Media Used] Other, Text",,FAIR,Reusable
+85,"Do you set clear expectations about attribution, citation, and other conditions for people to follow when they reuse your data? (for example, a copyright license) - Selected Choice",17,17,"Reuse Expectations: Attribution, Citation, Other Conditions","[Reuse Expectations] Attribution, Citation, Other Conditions",,FAIR,Reusable
+86,"Do you set clear expectations about attribution, citation, and other conditions for people to follow when they reuse your data? (for example, a copyright license) - Yes, other [please explain your specific license or other procedure] - Text",17,17,"Reuse Expectations: Other Conditions, Text","[Reuse Expectations] Other Conditions, Text",,FAIR,Reusable
+87,Do you have data security measures in place to protect confidential information? (select all that apply) - Selected Choice,18,18,Security: Data Security Measures,[Security] Data Security Measures,,FAIR,Reusable
+88,Do you have data security measures in place to protect confidential information? (select all that apply) - Compliance with other industry-specific regulations (please specify other regulatory compliance relevant to your data security practices) - Text,18,18,"Security: Compliance with Other Industry Regulations, Text","[Security] Compliance with Other Industry Regulations, Text",,FAIR,Reusable
+89,Do you have data security measures in place to protect confidential information? (select all that apply) - Other (please explain): - Text,18,18,"Security: Other, Text","[Security] Other, Text",,FAIR,Reusable
+90,"If yes, what types of information do you keep confidential and/or secure and under what circumstances? (e.g. location, subject matter, personally identifiable information)",19,19,Secure Info: Confidential Data Types,[Secure Info] Confidential Data Types,,FAIR,Reusable
+91,"In a perfect world, what would help you most to implement data access and reuse? (drag the options around to rank them in order) - Government regulations to set such policies/rules",20,20,Ideal Data Access Reuse: Government Regulations,[Ideal Data Access Reuse] Government Regulations,Yes,FAIR,Reusable
+92,"In a perfect world, what would help you most to implement data access and reuse? (drag the options around to rank them in order) - Tribal or similar regulations/guidelines to set such policies/rules",20,20,"Ideal Data Access Reuse: Tribal Regulations, Guidelines","[Ideal Data Access Reuse] Tribal Regulations, Guidelines",Yes,FAIR,Reusable
+93,"In a perfect world, what would help you most to implement data access and reuse? (drag the options around to rank them in order) - Regulations/guidelines from research funding bodies to set such policies/rules",20,20,"Ideal Data Access Reuse: Research Funding Regulations, Guidelines","[Ideal Data Access Reuse] Research Funding Regulations, Guidelines",Yes,FAIR,Reusable
+94,"In a perfect world, what would help you most to implement data access and reuse? (drag the options around to rank them in order) - Defined internal/institutional rules to follow",20,20,Ideal Data Access Reuse: Institutional Rules,[Ideal Data Access Reuse] Institutional Rules,Yes,FAIR,Reusable
+95,"In a perfect world, what would help you most to implement data access and reuse? (drag the options around to rank them in order) - Financial support for archiving",20,20,Ideal Data Access Reuse: Financial Support for Archiving,[Ideal Data Access Reuse] Financial Support for Archiving,Yes,FAIR,Reusable
+96,"In a perfect world, what would help you most to implement data access and reuse? (drag the options around to rank them in order) - Guidelines from journals and publishers",20,20,"Ideal Data Access Reuse: Guidelines from Publishers, Journals","[Ideal Data Access Reuse] Guidelines from Publishers, Journals",Yes,FAIR,Reusable
+97,"In a perfect world, what would help you most to implement data access and reuse? (drag the options around to rank them in order) - Guidelines from repositories",20,20,Ideal Data Access Reuse: Guidelines from Repositories,[Ideal Data Access Reuse] Guidelines from Repositories,Yes,FAIR,Reusable
+98,"In a perfect world, what would help you most to implement data access and reuse? (drag the options around to rank them in order) - Guidelines from professional organizations",20,20,Ideal Data Access Reuse: Guidelines from Professional Orgs,[Ideal Data Access Reuse] Guidelines from Professional Orgs,Yes,FAIR,Reusable
+99,"In a perfect world, what would help you most to implement data access and reuse? (drag the options around to rank them in order) - Training for individuals and institutions to comply with new policies",20,20,Ideal Data Access Reuse: Training for Ind and Orgs,[Ideal Data Access Reuse] Training for Ind and Orgs,Yes,FAIR,Reusable
+100,"How do you define Indigenous Data in your sector and how did you arrive at this definition? (Note: ""I don't know"" or ""I Googled it"" are both acceptable answers!)",21,21,"CARE: Define Indigenous Data, Text","[CARE] Define Indigenous Data, Text",Yes,CARE,General
+101,"Do you have policies beyond federal, state, and local laws, about engaging with Indigenous Peoples  or Descendant Communities when developing work products? (e.g, Text grant writing, developing a scope of work) - Selected Choice",22,22,Engage Policies: Policies for Indigenous/Descendant Engagement,[Engage Policies] Policies for Indigenous/Descendant Engagement,,CARE,Collective Benefit
+102,"Do you have policies beyond federal, state, and local laws, about engaging with Indigenous Peoples  or Descendant Communities when developing work products? (e.g, Text grant writing, developing a scope of work) - Yes (if yes, provide some examples of policies (e.g. IRB, Ethics Review, Tribal Review or other) - Text",22,22,"Engage Policies: Policies for Indigenous/Descendant Engagement, Examples, Text","[Engage Policies] Policies for Indigenous/Descendant Engagement, Examples, Text",,CARE,Collective Benefit
+103,Do you engage with Indigenous Peoples and/or Descendant Communities during any of these activities? (select all that apply) - Brainstorming,23,23,Engage When: Brainstorming,[Engage When] Brainstorming,,CARE,Collective Benefit
+104,Do you engage with Indigenous Peoples and/or Descendant Communities during any of these activities? (select all that apply) - Grant writing,23,23,Engage When: Grant Writing,[Engage When] Grant Writing,,CARE,Collective Benefit
+105,Do you engage with Indigenous Peoples and/or Descendant Communities during any of these activities? (select all that apply) - Project design,23,23,Engage When: Project Design,[Engage When] Project Design,,CARE,Collective Benefit
+106,"Do you engage with Indigenous Peoples and/or Descendant Communities during any of these activities? (select all that apply) - Development of proposals for an Institutional Research Board, Research Ethics Board, Tribal Review Board or similar",23,23,"Engage When: IRB, Ethics Board, Tribal Review Board","[Engage When] IRB, Ethics Board, Tribal Review Board",,CARE,Collective Benefit
+107,Do you engage with Indigenous Peoples and/or Descendant Communities during any of these activities? (select all that apply) - Development of a data management plan,23,23,Engage When: DMP Development,[Engage When] DMP Development,,CARE,Collective Benefit
+108,Do you engage with Indigenous Peoples and/or Descendant Communities during any of these activities? (select all that apply) - Development of data use policy,23,23,Engage When: Data Use Policy Development,[Engage When] Data Use Policy Development,,CARE,Collective Benefit
+109,Do you engage with Indigenous Peoples and/or Descendant Communities during any of these activities? (select all that apply) - Data collection or acquisition,23,23,"Engage When: Data Collection, Acquisition","[Engage When] Data Collection, Acquisition",,CARE,Collective Benefit
+110,Do you engage with Indigenous Peoples and/or Descendant Communities during any of these activities? (select all that apply) - Analysis,23,23,Engage When: Analysis,[Engage When] Analysis,,CARE,Collective Benefit
+111,Do you engage with Indigenous Peoples and/or Descendant Communities during any of these activities? (select all that apply) - Reporting/dissemination/sharing,23,23,"Engage When: Reporting, Dissemination","[Engage When] Reporting, Dissemination",,CARE,Collective Benefit
+112,Do you engage with Indigenous Peoples and/or Descendant Communities during any of these activities? (select all that apply) - Preservation and curation,23,23,"Engage When: Preservation, Curation","[Engage When] Preservation, Curation",,CARE,Collective Benefit
+113,Do you engage with Indigenous Peoples and/or Descendant Communities during any of these activities? (select all that apply) - Secondary use of data,23,23,Engage When: Secondary Use of Data,[Engage When] Secondary Use of Data,,CARE,Collective Benefit
+114,Do you engage with Indigenous Peoples and/or Descendant Communities during any of these activities? (select all that apply) - N/A,23,23,Engage When: Not Applicable,[Engage When] Not Applicable,,CARE,Collective Benefit
+115,Do you have processes or mechanisms to disclose Indigenous and/or Descendant Community data held in your work setting to others outside the institution? - Yes,24,24,Disclosure Process: Indigenous and/or Descendant Disclosure Methods in Place,[Disclosure Process] Indigenous and/or Descendant Disclosure Methods in Place,,CARE,Collective Benefit
+116,Do you have processes or mechanisms to disclose Indigenous and/or Descendant Community data held in your work setting to others outside the institution? - No,24,24,Disclosure Process: Indigenous and/or Descendant Disclosure Methods Not in Place,[Disclosure Process] Indigenous and/or Descendant Disclosure Methods Not in Place,,CARE,Collective Benefit
+117,Do you have processes or mechanisms to disclose Indigenous and/or Descendant Community data held in your work setting to others outside the institution? - Don’t know,24,24,Disclosure Process: Indigenous and/or Descendant Disclosure Methods Not Known,[Disclosure Process] Indigenous and/or Descendant Disclosure Methods Not Known,,CARE,Collective Benefit
+118,"Please provide examples of such processes or mechanisms:  
+(Reminder: Keep your response general to not reveal personal or institutional details.)",25,25,"Disclosure Process: Indigenous and/or Descendant Disclosure Examples, Text","[Disclosure Process] Indigenous and/or Descendant Disclosure Examples, Text",,CARE,Collective Benefit
+119,Do you have processes to actively facilitate the use and reuse of data by Indigenous Peoples and/or Descendant Communities represented in those data? - Yes,26,26,Reuse Process: Yes for Indigenous Peoples,[Reuse Process] Yes for Indigenous Peoples,,CARE,Collective Benefit
+120,Do you have processes to actively facilitate the use and reuse of data by Indigenous Peoples and/or Descendant Communities represented in those data? - No,26,26,Reuse Process: Yes for Descendant Communities,[Reuse Process] Yes for Descendant Communities,,CARE,Collective Benefit
+121,Do you have processes to actively facilitate the use and reuse of data by Indigenous Peoples and/or Descendant Communities represented in those data? - Don’t know,26,26,Reuse Process: Not Known for Indigenous and/or Descendant Communities,[Reuse Process] Not Known for Indigenous and/or Descendant Communities,,CARE,Collective Benefit
+122,"Please provide examples of such processes: 
+(Reminder: Keep your response general to not reveal personal or institutional details.)",27,27,"Reuse Process: Examples, Text","[Reuse Process] Examples, Text",,CARE,Collective Benefit
+123,Is there funding or training to support use of data by Indigenous Peoples and/or Descendant Communities held by your work setting? - Lots of it!,28,28,Funding Training: High Availability of Funding or Training,[Funding Training] High Availability of Funding or Training,,CARE,Collective Benefit
+124,Is there funding or training to support use of data by Indigenous Peoples and/or Descendant Communities held by your work setting? - A limited amount,28,28,Funding Training: Limited Availability of Funding or Training,[Funding Training] Limited Availability of Funding or Training,,CARE,Collective Benefit
+125,Is there funding or training to support use of data by Indigenous Peoples and/or Descendant Communities held by your work setting? - None,28,28,Funding Training: No Funding or Training,[Funding Training] No Funding or Training,,CARE,Collective Benefit
+126,Is there funding or training to support use of data by Indigenous Peoples and/or Descendant Communities held by your work setting? - I don't know,28,28,Funding Training: Unknown Availability of Funding or Training,[Funding Training] Unknown Availability of Funding or Training,,CARE,Collective Benefit
+127,"Do you / your work setting have data use policies or user agreements that explicitly address Indigenous People’s rights to possess, use, consent, refuse, and reclaim data? - Selected Choice",29,29,"Control Policies: Polices for Indigenous Use, Refusal, Reclaim Data? Yes, No, I don't know","[Control Policies] Polices for Indigenous Use, Refusal, Reclaim Data? Yes, No, I don't know",,CARE,Authority to Control
+128,"Do you / your work setting have data use policies or user agreements that explicitly address Indigenous People’s rights to possess, use, consent, refuse, and reclaim data? - Yes (if yes, provide an example) - Text",29,29,"Control Policies: Polices for Indigenous Use, Refusal, Reclaim Data? Yes, Text","[Control Policies] Polices for Indigenous Use, Refusal, Reclaim Data? Yes, Text",,CARE,Authority to Control
+129,"Do you / your work setting have data use policies or user agreements that explicitly address Indigenous People’s rights to possess, use, consent, refuse, and reclaim data? - No (if no, describe why not) - Text",29,29,"Control Policies: Polices for Indigenous Use, Refusal, Reclaim Data? No, Text","[Control Policies] Polices for Indigenous Use, Refusal, Reclaim Data? No, Text",,CARE,Authority to Control
+130,Do you / your work setting have an inventory of the  Indigenous and/or Descendant Community data that it holds? - Yes,30,30,"Data Inventory: Indigenous and/or Descendant Community Data Inventory, Yes","[Data Inventory] Indigenous and/or Descendant Community Data Inventory, Yes",,CARE,Authority to Control
+131,Do you / your work setting have an inventory of the  Indigenous and/or Descendant Community data that it holds? - No,30,30,"Data Inventory: Indigenous and/or Descendant Community Data Inventory, No","[Data Inventory] Indigenous and/or Descendant Community Data Inventory, No",,CARE,Authority to Control
+132,Do you / your work setting have an inventory of the  Indigenous and/or Descendant Community data that it holds? - Don't know,30,30,"Data Inventory: Indigenous and/or Descendant Community Data Inventory, Not Known","[Data Inventory] Indigenous and/or Descendant Community Data Inventory, Not Known",,CARE,Authority to Control
+133,How do you identify Indigenous Peoples and/or Descendant Communities in your data? - Selected Choice,31,31,How Communities Identified: Identification Methods,[How Communities Identified] Identification Methods,,CARE,Authority to Control
+134,How do you identify Indigenous Peoples and/or Descendant Communities in your data? - Other (please explain) - Text,31,31,"How Communities Identified: Other, Text","[How Communities Identified] Other, Text",,CARE,Authority to Control
+135,Which practices do you use before sharing Indigenous Peoples’ and/or Descendant Communities’ data? - Secured access,32,32,Practices Prior to Sharing: Secured Access ,[Practices Prior to Sharing] Secured Access ,,CARE,Authority to Control
+136,Which practices do you use before sharing Indigenous Peoples’ and/or Descendant Communities’ data? - Permission forms,32,32,Practices Prior to Sharing: Permissions Forms,[Practices Prior to Sharing] Permissions Forms,,CARE,Authority to Control
+137,Which practices do you use before sharing Indigenous Peoples’ and/or Descendant Communities’ data? - Data redaction (e.g. informed by Indigenous and/or Descendant Community engagement),32,32,Practices Prior to Sharing: Data Redaction,[Practices Prior to Sharing] Data Redaction,,CARE,Authority to Control
+138,Which practices do you use before sharing Indigenous Peoples’ and/or Descendant Communities’ data? - Data encryption,32,32,Practices Prior to Sharing: Data Encryption,[Practices Prior to Sharing] Data Encryption,,CARE,Authority to Control
+139,"Which practices do you use before sharing Indigenous Peoples’ and/or Descendant Communities’ data? - Institutional Review Board (IRB), Ethics Board, Tribal Review Board or similar application",32,32,"Practices Prior to Sharing: Institutional Review Board (IRB), Ethics Board, Tribal Review Board or Similar","[Practices Prior to Sharing] Institutional Review Board (IRB), Ethics Board, Tribal Review Board or Similar",,CARE,Authority to Control
+140,Which practices do you use before sharing Indigenous Peoples’ and/or Descendant Communities’ data? - Case by case basis,32,32,Practices Prior to Sharing: Case by Case,[Practices Prior to Sharing] Case by Case,,CARE,Authority to Control
+141,Which practices do you use before sharing Indigenous Peoples’ and/or Descendant Communities’ data? - No protocols,32,32,Practices Prior to Sharing: No Protocols,[Practices Prior to Sharing] No Protocols,,CARE,Authority to Control
+142,Which practices do you use before sharing Indigenous Peoples’ and/or Descendant Communities’ data? - Other (explain),32,32,Practices Prior to Sharing: Other,[Practices Prior to Sharing] Other,,CARE,Authority to Control
+143,Which practices do you use before sharing Indigenous Peoples’ and/or Descendant Communities’ data? - Other (explain) - Text,32,32,"Practices Prior to Sharing: Other, Text","[Practices Prior to Sharing] Other, Text",,CARE,Authority to Control
+144,"Do you require Free, Prior, Informed Consent from Indigenous Peoples and/or Descendant Communities related to the acquisition, use, archiving, publishing, or reuse of data related to them? (Yes / No, please elaborate)
+(Reminder: Keep your response general to not reveal personal or institutional details.)",33,33,"Informed Consent: Required Informed Consent Yes, No, Text","[Informed Consent] Required Informed Consent Yes, No, Text",,CARE,Authority to Control
+145,"Do you have processes that have been developed in collaboration with Indigenous Peoples and/or Descendant Communities about access, sharing, and use of data? (Yes / No, please elaborate)
+(Reminder: Keep your response general to not reveal personal or institutional details.)",34,34,"Collaboration Processes: Collaboration Processes Exist Yes, No, Text","[Collaboration Processes] Collaboration Processes Exist Yes, No, Text",,CARE,Authority to Control
+146,"If you answered ""Yes"" to the previous question, describe how you evaluate the effectiveness of those processes:",35,35,"Collaboration Processes: Efficacy of Collaboration Processes, Text","[Collaboration Processes] Efficacy of Collaboration Processes, Text",,CARE,Authority to Control
+147,Do you encourage relationship-building with local Indigenous Peoples and/or Descendant Communities? Please explain.,36,36,Relations Encouraged: Text,[Relations Encouraged] Text,,CARE,Responsibility
+148,"If you're responding for an organization: Do you provide funds or other resources for Indigenous Peoples and/or Descendant Communities to build community capacity in the creation, collection, management, security, governance and application of data? Please explain and highlight any rules or limitations.",37,37,Funds for Capacity Building: Text,[Funds for Capacity Building] Text,,CARE,Responsibility
+149,"Do you attribute (such as through acknowledgment, authorship, or in metadata) Indigenous Peoples and/or Descendant Communities in work products (e.g. publications, reports, back-end information, inventories, catalog records, finding aids)? Please explain.",38,38,"Do You Attribute: Yes, No, Text","[Do You Attribute] Yes, No, Text",,CARE,Responsibility
+150,"Do you look for attribution (e.g. acknowledgement, authorship or in metadata) of Indigenous Peoples and/or Descendant Communities when you access/reuse data? - Selected Choice",39,39,"Do You Look for Attribution: Yes, No, Sometimes","[Do You Look for Attribution] Yes, No, Sometimes",,CARE,Responsibility
+151,"Do you look for attribution (e.g. acknowledgement, authorship or in metadata) of Indigenous Peoples and/or Descendant Communities when you access/reuse data? - Sometimes (explain) - Text",39,39,Do You Look for Attribution: Text,[Do You Look for Attribution] Text,,CARE,Responsibility
+152,"How do you apply/implement Indigenous Peoples’ and/or Descendant Communities’ respective and unique ethical frameworks? (If you do not know or are unsure, please say so.)",40,40,Application of Ethical Frameworks: Text,[Application of Ethical Frameworks] Text,,,
+153,What sensitivities are you aware of in the Indigenous Peoples’ and/or Descendant Communities’ data that you manage?,41,41,Data  sensitivities: Text,[Data  sensitivities] Text,,,
+154,"Do you include Indigenous Peoples and/or Descendant Communities in the interpretation and/or presentation of findings (e.g. scholarship, exhibits, tools, etc.)? - Selected Choice",42,42,"Inclusive Interpretation and Presentation: Yes, No, I don't know, Sometimes","[Inclusive Interpretation and Presentation] Yes, No, I don't know, Sometimes",,CARE,Ethics
+155,"Do you include Indigenous Peoples and/or Descendant Communities in the interpretation and/or presentation of findings (e.g. scholarship, exhibits, tools, etc.)? - Yes (explain how) - Text",42,42,"Inclusive Interpretation and Presentation: Yes, Text","[Inclusive Interpretation and Presentation] Yes, Text",,CARE,Ethics
+156,"Do you include Indigenous Peoples and/or Descendant Communities in the interpretation and/or presentation of findings (e.g. scholarship, exhibits, tools, etc.)? - Sometimes (explain) - Text",42,42,"Inclusive Interpretation and Presentation: Sometimes, Text","[Inclusive Interpretation and Presentation] Sometimes, Text",,CARE,Ethics
+157,Do you compensate Indigenous Peoples and/or Descendant Communities for  participation in your work and/or research? - Selected Choice,43,43,"Compensation: Yes, No, I don't know, Sometimes ","[Compensation] Yes, No, I don't know, Sometimes ",,,
+158,"Do you compensate Indigenous Peoples and/or Descendant Communities for  participation in your work and/or research? - Yes (explain how- e.g. honorarium, meals, conference registration, etc.) - Text",43,43,"Compensation: Yes, Text","[Compensation] Yes, Text",,,
+159,Do you compensate Indigenous Peoples and/or Descendant Communities for  participation in your work and/or research? - Sometimes (explain) - Text,43,43,"Compensation: Sometimes, Text","[Compensation] Sometimes, Text",,,
+160,Do you have administrative mechanisms for legal and/or ethical violations involving Indigenous Peoples and/or Descendant Communities? - Selected Choice,44,44,"Admin for Legal, Ethical Violations: Yes, No, I don't know, Sometimes","[Admin for Legal, Ethical Violations] Yes, No, I don't know, Sometimes",,CARE,Ethics
+161,Do you have administrative mechanisms for legal and/or ethical violations involving Indigenous Peoples and/or Descendant Communities? - Sometimes (explain) - Text,44,44,"Admin for Legal, Ethical Violations: Sometimes, Text","[Admin for Legal, Ethical Violations] Sometimes, Text",,CARE,Ethics
+162,"After taking this survey, are you interested in implementing FAIR practices?",45,45,Interest in Implementing FAIR,Interest in Implementing FAIR,Yes,General,General
+163,"After taking this survey, are you interested in implementing CARE practices?",46,46,Interest in Implementing CARE,Interest in Implementing CARE,Yes,General,General
+164,Is there anything else you would like us to know that you have thought about during this survey?,47,47,Other Thoughts: Text,[Other Thoughts] Text,,General,General
+165,"Do you have any other comments about the survey (questions, theme, length, etc.)?",48,48,Survey Comments: Text,[Survey Comments] Text,,General,General
+166,"Hooray! You made it to the end! When you click ""Next Page"" below, the survey will close and you will not be able to go back.
+
+Thank you very much for participating in the Online Survey of Cultural Heritage Professionals! We value your feedback. 
+
+If you have more thoughts to share and wish to take part in future focus groups or individual interviews on these topics, please send an email to the project co-directors: Sarah Kansa, Neha Gupta, Desiree Martinez, and Chris Nicholson at imls-faircare-directors@opencontext.org. Or, you may write your email address in the box below (however, please be aware that this will remove the anonymity of your responses).",,,,,,SKIP,SKIP
