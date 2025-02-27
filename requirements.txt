@@ -1,0 +1,11 @@
+jupyterlab>=4.3.1
+bertopic>=0.16.4
+matplotlib>=3.9.2
+nltk>=3.9.1
+openpyxl>=3.1.5
+pyodbc>=5.2.0
+scikit_learn>=1.5.2
+sentence_transformers>=3.3.1
+slugify>=0.0.1
+squarify>=0.4.4
+wordcloud>=1.9.4
